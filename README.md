@@ -30,6 +30,4 @@ The motivation for this project stems from an interest in understanding the Sing
 
 ---
 
-Some cool geospatial extracts from the notebook:
-
 <img width="902" alt="Screenshot 2025-03-14 at 15 44 46" src="https://github.com/user-attachments/assets/1b9d62ca-7cee-4b48-9812-b3d127b15704" />
