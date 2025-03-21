@@ -13,7 +13,7 @@ The motivation for this project stems from an interest in understanding the Sing
 ## Research Questions
 - What variables influence the resale price of HDB flats in Singapore?  
 - Are location-specific factors more influential than flat-specific ones?  
-- How do market trends change over time? 
+- How do market trends change over time?  
 
 ## Approach
 1. **Data Preprocessing**  
